@@ -10,12 +10,12 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 
 | Name | Student ID | Role |
 |---|---|---|
-| Member 1 | XXXXXXXX | Leader |
-| Member 2 | XXXXXXXX | Member |
-| Member 3 | XXXXXXXX | Member |
-| Member 4 | XXXXXXXX | Member |
-| Member 5 | XXXXXXXX | Member |
-| Member 6 | XXXXXXXX | XXX |
+| Yosif Aldossary | 2250007011 | Leader |
+| Mohammed Alowaidh | 2250003423 | Member |
+| Mohannad Alhowail | 2250005169 | Member |
+| Saad Alshamrani | 2250007034 | Member |
+| Saad Alkhozaiem | 2250005150 | Member |
+| Turki Aldafiri | 2250004266 | Member |
 
 > Remove any unused member row if your group has fewer than 6 members.
 
@@ -30,7 +30,7 @@ The group must choose **one public dataset** that meets all of the following req
 
 ### Dataset Link
 
-[Add your dataset link here](YOUR_DATASET_LINK)
+[https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 
 ##  Requirements
 
