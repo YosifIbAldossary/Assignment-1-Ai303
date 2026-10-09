@@ -91,7 +91,7 @@ A recommended repository structure is:
 
 The repository must be **public** so that the submitted link can be opened without requiring a login.
 
-**Repository:** [Add your GitHub repository link here](YOUR_GITHUB_REPOSITORY_LINK)
+**Repository:** [https://github.com/YosifIbAldossary/Assignment-1-Ai303)
 
 ## Submission
 
